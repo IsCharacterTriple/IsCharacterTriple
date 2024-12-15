@@ -1,3 +1,14 @@
+## 推测服务器结构
+```
+            Proxy:Velocity
+                  |
+      --------------------------
+     |            |             |
+  Server1      Server2       Server3
+Folia 1.21     Unknown       Random
+  生存服        海岛服        活动服
+```
+
 ## 插件列表
 1. **AntiPopup** (9.2)
 2. **ArmorStandEditor** (1.21-47)
