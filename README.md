@@ -16,10 +16,12 @@
 #### **家里云** (WIP)：
 在服主日常乞求托管费和网费的时候，一名群友顺手解析了一下ip，居然发现......
 #### **ICT特色公益服** (WIP)：
-赞助的定义为何含糊不清？MCBBS公益服认证为何被撤销？且听下回分解......
+赞助的定义为何含糊不清？MCBBS公益服认证为何被撤销？且听下回分解
 #### **小麦，您好**:
 [点击即看麦卡锡议员如何打击极左恐怖分子，纠正服内不良风气。](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Evidence/McCarthyism/README.md)
-
+#### **历史周期律** (NEW):
+[不要让悲剧重演！不要让悲剧重演！不要让悲剧重演......
+](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Evidence/Plink.png)
 ## 留言板
 
 重定向至 [MemberMessageBoard](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/MemberMessageBoard.md)
