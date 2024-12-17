@@ -12,8 +12,17 @@
 
 据观测可能已瞄准抖音作为第二宣传平台 - Atom64
 
-### 大家好啊，我是阁楼五小嘿，I'm back!!!! main!!!
-![image](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/%E5%AD%A9%E5%AD%90%E4%BB%AC%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86%EF%BC%81%EF%BC%81.png?raw=true)
+## 铁证如山之...
+#### **家里云** (WIP)：
+在服主日常乞求托管费和网费的时候，一名群友顺手解析了一下ip，居然发现......
+#### **ICT特色公益服** (WIP)：
+赞助的定义为何含糊不清？MCBBS公益服认证为何被撤销？且听下回分解......
+#### **小麦，您好**:
+[点击即看麦卡锡议员如何打击极左恐怖分子，纠正服内不良风气。](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Evidence/McCarthyism/README.md)
+
+## 留言板
+
+重定向至 [MemberMessageBoard](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/MemberMessageBoard.md)
 
 ## index
 - [Anti-ICT](https://github.com/IsCharacterTriple/anti-ict-backup) ([Link to Website](https://pan90.github.io/anti-ict/))
