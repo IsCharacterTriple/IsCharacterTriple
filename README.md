@@ -18,7 +18,7 @@
 #### **ICT特色公益服** (WIP)：
 [赞助的定义](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Visuals/backup%20form%20mcmod%20comment.jpg)为何含糊不清？MCBBS公益服认证为何被撤销？且听下回分解
 #### **小麦，您好**:
-[点击即看麦卡锡议员如何打击极左恐怖分子，纠正服内不良风气。](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Evidence/McCarthyism/README.md)
+[点击即看麦卡锡议员如何打击极左恐怖分子，纠正服内不良风气。](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/Document/McCarthy.md)
 #### **历史周期律** (NEW):
 [不要让悲剧重演！不要让悲剧重演！不要让悲剧重演......
 ](https://github.com/IsCharacterTriple/IsCharacterTriple/blob/main/IMG/Evidence/Plink.png)
